@@ -1,0 +1,7 @@
+{
+  "name": "TETSU PAINT - Industrial Coating Solutions",
+  "description": "Official website of TETSU PAINT (PT Indah Warna Sejahtera), a leading manufacturer of high-performance industrial, marine, and automotive coatings.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
